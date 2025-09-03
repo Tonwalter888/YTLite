@@ -1,4 +1,4 @@
-name: Create YouTube Plus app
+name: Create YouTube Plus IPA
 
 on:
   workflow_dispatch:
@@ -8,13 +8,13 @@ on:
         description: "Integrate YouPiP"
         type: boolean
         required: true
-        default: false
+        default: true
 
       enable_ytuhd:
         description: "Integrate YTUHD"
         type: boolean
         required: true
-        default: false
+        default: true
 
       enable_yq:
         description: "Integrate YouQuality"
@@ -26,7 +26,7 @@ on:
         description: "Integrate Return YouTube Dislikes"
         type: boolean
         required: true
-        default: false
+        default: true
 
       enable_demc:
         description: "Integrate DontEatMyContent"
@@ -42,7 +42,7 @@ on:
 
       tweak_version:
         description: "The version of the tweak to use. Enter the version manually from dayanch96/YTLite/releases or leave default"
-        default: "5.2b3"
+        default: "5.2b2"
         required: true
         type: string
 
@@ -57,12 +57,6 @@ on:
         default: "com.google.ios.youtube"
         required: true
         type: string
-
-      info_note:
-        description: "TIP: Learn more about integrations in the README via the link below"
-        default: "https://github.com/dayanch96/YTLite#tweak-integration-details"
-        type: string
-        required: false
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
