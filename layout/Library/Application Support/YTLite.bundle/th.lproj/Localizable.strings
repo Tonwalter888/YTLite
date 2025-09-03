@@ -73,7 +73,7 @@
 "HideShorts" = "ซ่อนวีดีโอ Shorts";
 "HideShortsDesc" = "ซ่อนวีดีโอ Shorts จากหน้าหลัก,ตอนค้นหา ฯลฯ";
 "KeepSubsShorts" = "เก็บ Shorts ไว้ในการติดตาม";
-"KeepSubsShortsDesc" = "ป้องกัน Shorts หายไปจากแถบการตติดตาม";
+"KeepSubsShortsDesc" = "ป้องกัน Shorts หายไปจากแถบการติดตาม";
 "RemoveCommunityPosts" = "Remove community posts";
 "RemoveCommunityPostsDesc" = "Removes community posts from the feed.";
 "RemoveMixPlaylists" = "Remove mixes";
