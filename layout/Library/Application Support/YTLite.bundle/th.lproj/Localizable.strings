@@ -14,7 +14,7 @@
 
 "YtlButtonPosition" = "Downloading button placement";
 "UnderPlayer" = "ใต้ตัวเล่นวิดีโอ";
-"Overlay" = "Overlay";
+"Overlay" = "โอเวอร์เลย์";
 "Both" = "ทั้งคู่";
 
 "PostDownloadAction" = "Post-download action";
@@ -25,10 +25,10 @@
 "Ask" = "ถาม";
 "DownloadCompleted" = "ดาวน์โหลดสำเร็จ";
 
-"PreferredAudio" = "Preferred audio track";
-"Selected" = "Selected";
+"PreferredAudio" = "แทร็กเสียงที่ต้องการ";
+"Selected" = "เลือก";
 "English" = "อังกฤษ";
-"SelectAudioTrack" = "Select audio track";
+"SelectAudioTrack" = "แทร็กเสียบที่ต้องการ";
 "EnglishNotFound" = "ไม่พบแทร็กเสียงภาษาอังกฤษ";
 
 "Audios" = "เสียง";
@@ -97,13 +97,13 @@
 "PlaybackQualityOnCellularDesc" = "เลือกคุณภาพวิดีโอให้อัตโนมัติเมือเล่นบนเซลลูลาร์";
 
 "PreferredCaptions" = "Preferred captions";
-"Original" = "Original";
-"Custom" = "Select manually";
-"CustomAudioTrack" = "Selected audio track";
+"Original" = "ต้นฉบับ";
+"Custom" = "เลือกเอง";
+"CustomAudioTrack" = "แทร็กเสียงที่เลือก";
 "CustomAudioTrackDesc" = "Specifies the preferred audio track language to use for playback, if available";
-"CustomCaptions" = "Selected captions";
+"CustomCaptions" = "คำบรรยายที่เลือก";
 "CustomCaptionsDesc" = "Specifies the preferred captions language to display, if available";
-"AutoGenCaps" = "Auto-generated captions";
+"AutoGenCaps" = "คำบรรยานที่สร้างอัตโนมัติ";
 "AutoGenCapsDesc" = "If the selected captions are not found, YouTube Plus will try to select either a translation of original captions or a translation of auto-generated captions.";
 
 "Player.Interface" = "Interface";
@@ -247,9 +247,9 @@
 /* Shorts options */
 "Shorts" = "Shorts";
 "PlaybackMode" = "Playback completion action";
-"Loop" = "Loop";
-"ScrollToNext" = "Scroll to next";
-"Stop" = "Stop";
+"Loop" = "วนลูป";
+"ScrollToNext" = "เลื่อนถัดไป";
+"Stop" = "หยุด";
 "AutoSkipShorts" = "Auto-skip Shorts";
 "ShortsOnlyMode" = "Shorts only mode";
 "ShortsOnlyModeDesc" = "Limits YouTube functionality to viewing Shorts only.";
